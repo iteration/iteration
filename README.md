@@ -1,31 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Entreprenuer+Builder+Full-stack+web+and+app+engineer.++++++++++)](https://git.io/typing-svg)
-
-<h2>🏆 Github Profile Trophy</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=iteration&column=9&theme=gruvbox&no-frame=true"/>
-
-![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=iteration&show_icons=true&theme=tokyonight)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iteration&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iteration&theme=neon-palenight&hide_border=true)
-
-<!--
-**iteration/iteration** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Entrepreneur+-+Builder+-+Full-stack+web+and+app+engineer.++++++++++)](https://git.io/typing-svg)
 
 ## ⚡ Technologies
 
@@ -65,3 +40,27 @@ These are some of the technologies and tools that I work with:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+<h2>🏆 Github Profile Trophy</h2>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=iteration&theme=radical&no-frame=true"/>
+
+<!-- ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=iteration&show_icons=true&theme=tokyonight) -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iteration&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iteration&theme=radical&hide_border=true)
+
+<!--
+**iteration/iteration** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
