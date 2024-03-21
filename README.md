@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Entrepreneur+-+Builder+-+Full-stack+web+and+app+engineer.++++++++++)](https://git.io/typing-svg)
-
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
